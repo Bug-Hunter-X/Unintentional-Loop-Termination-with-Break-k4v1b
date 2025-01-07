@@ -1,0 +1,1 @@
+This repository demonstrates a common Java programming error: unintended loop termination caused by misplacing or misusing a `break` statement within a loop. The `BuggyLoop.java` file contains code with this error. The `FixedLoop.java` file shows the corrected version of the code.
